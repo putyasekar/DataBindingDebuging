@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Data Binding Debuging</string>
+    <string name="name" />
+    <string name="my_name">Putya</string>
+    <string name="last_name">Last Name</string>
+    <string name="my_last_name">Sekar Ayu</string>
+    <string name="likes">Likes</string>
+    <string name="score">3</string>
+    <string name="like_button">LIKE</string>
+    <string name="Name">first_name</string>
+    <string name="image_for_like">Image for Like</string>
+</resources>
